@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build-observer": "tsc observer/Example.ts & node observer/Example.js",
+    "build-factory": "tsc factory/Example.ts & node factory/Example.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
